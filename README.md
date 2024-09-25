@@ -1,9 +1,5 @@
 ## Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored
-```
-Program to implement the simple linear regression model for predicting the marks scored.
-Developed by: Rajalakshmi R
-RegisterNumber: 212223110037
-```
+
 ## AIM:
 To write a program to predict the marks scored by a student using the simple linear regression model.
 
@@ -23,6 +19,12 @@ Step 8 : Stop
 
 ## Program:
 ```
+*/
+Program to implement the simple linear regression model for predicting the marks scored.
+Developed by: Rajalakshmi R
+RegisterNumber: 212223110037
+/*
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
