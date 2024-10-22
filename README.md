@@ -69,11 +69,12 @@ plt.ylabel("Scores")
 plt.show()
 ```
 */
-```
+
 
 ## Output:
 ### Head:
-![Screenshot 2024-08-28 103458](https://github.com/user-attachments/assets/24dfdd22-fcad-43a7-a492-1dd6871c2229)
+![image](https://github.com/user-attachments/assets/b2bb62bc-eed3-41c1-a888-42e9f36076e8)
+
 
 
 ### Info:
