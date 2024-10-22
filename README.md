@@ -68,7 +68,6 @@ plt.xlabel("Hours")
 plt.ylabel("Scores")
 plt.show()
 ```
-*/
 
 
 ## Output:
